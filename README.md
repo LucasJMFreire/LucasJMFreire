@@ -37,6 +37,8 @@ Olá a todos! Meu nome é Lucas Macêdo, tenho 27 anos e tenho mestrado em biolo
 
 6️⃣Resolutivo
 
+
+
 <br>
 
 ## Produções:

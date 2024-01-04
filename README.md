@@ -10,7 +10,7 @@
 
 ## Sobre mim:
 
-Olá a todos! Meu nome é Lucas Macêdo, tenho 27 anos e tenho mestrado em biologia pela Universidade Federal da Paraíba. Estou no processo de migração de carreira para de dados, buscando atuar como Cientista de Dados.<br>
+Olá a todos! Meu nome é Lucas Macêdo, tenho 27 anos e tenho mestrado em biologia pela Universidade Federal da Paraíba. Estou no processo de migração de carreira para de dados, buscando atuar como Analista de Dados.<br>
 
 ### Hard Skills:
 

@@ -14,6 +14,8 @@ Olá a todos! Meu nome é Lucas Macêdo, tenho 27 anos e tenho mestrado em biolo
 
 ### Hard Skills:
 
+<img src="https://kbtech.com.br/wp-content/uploads/2023/03/95percent-sucess.png" width='35px'/> Power BI (DAX e Linguagem M) e SQL
+
 <img src="https://images.vexels.com/media/users/3/126968/isolated/preview/466f926f271713ebfb783f1214405f5d-50-percent-progress-circle.png" width='35px'/> Python (pandas, numpy, matplotlib, seaborn);
 
 <img src="https://kbtech.com.br/wp-content/uploads/2023/03/95percent-sucess.png" width='35px'/> R (Dplyr, GGplot2, Vegan);

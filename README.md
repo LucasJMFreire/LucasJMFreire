@@ -20,7 +20,7 @@ Olá a todos! Meu nome é Lucas Macêdo, tenho 27 anos e tenho mestrado em biolo
 
 <img src="https://kbtech.com.br/wp-content/uploads/2023/03/95percent-sucess.png" width='35px'/> Estatística descritiva e inferencial aplicada à análise de dados, com foco em Ecologia e Biologia;
 
-<img src="https://images.vexels.com/media/users/3/126968/isolated/preview/466f926f271713ebfb783f1214405f5d-50-percent-progress-circle.png" width='35px'/> Excel e PowerBI.
+<img src="https://images.vexels.com/media/users/3/126968/isolated/preview/466f926f271713ebfb783f1214405f5d-50-percent-progress-circle.png" width='35px'/> Excel.
 <br>
 
 ### Soft Skills:
